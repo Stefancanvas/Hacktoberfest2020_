@@ -31,7 +31,7 @@ Voila!
 -   Use proper names for your files.
 -   **Do all your changes in your forked repository branch and not in the master branch until asked.**
 -   **We will reject any pull request which looks like spammy or just to have +1 in the counter, so contribute quality code here!**
--   As per the guidlines of Hacktoberfest, we will not merge any **plagiarised** code or any type of **fishy** code.
+-   As per the guidelines of Hacktoberfest, we will not merge any **plagiarised** code or any type of **fishy** code.
 
 ## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
